@@ -61,3 +61,4 @@ assets/demo.png: contém uma captura de tela da demonstração.
 # Licença
 
 Este projeto está disponível sob a licença MIT. Consulte o arquivo LICENSE para ver o texto completo da licença.
+Você também pode acessar a licença: https://github.com/beatrizgrazianereis/ola-programa/blob/main/LICENSE
