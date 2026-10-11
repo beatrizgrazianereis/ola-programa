@@ -10,7 +10,7 @@ Demonstração
 
 A imagem abaixo mostra um exemplo de execução do programa:
 
-
+![Demonstração do programa](assets/demo.png)
 
 Instalação e pré-requisitos
 
